@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">GoogleMapAndroid</string>
+    <string name="app_name">Mappro</string>
     <string name="title_activity_maps">Map</string>
+    <string name="map">MAP</string>
+    <string name="place_picker">Place Picker</string>
+    <string name="list_map">List Map</string>
+
 </resources>
